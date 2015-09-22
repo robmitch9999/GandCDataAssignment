@@ -10,6 +10,7 @@ newData.txt contains average mean and standard deviation data for each of the si
 activities. The dataset has 88 variables (slightly more detailed descriptions of all but the first two variables appear in the original documentation at the end of 
 
 this file) as follows:
+
  $ person                           : int  1 1 1 1 1 1 2 2 2 2 ...
 
  $ activity                         : Factor w/ 6 levels "LAYING","SITTING",..: 1 2 3 4 5 6 1 2 3 4 ...
